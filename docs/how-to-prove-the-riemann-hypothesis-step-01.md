@@ -89,7 +89,7 @@ $$
 
 ### **Key Insights from This Decomposition**
 
-- Both the real and imaginary parts contain oscillatory functions (\(\cos, \sin\)), meaning that each term exhibits periodic behavior determined by \(\ln(n)\).
+- Both the real and imaginary parts contain oscillatory functions ($\cos, \sin$), meaning that each term exhibits periodic behavior determined by $\ln(n)$.
 - The exponential factor $\frac{1}{n^a}$ controls the decay rate. The larger the real part $a$, the faster the terms approach zero; the smaller $a$, the slower the decay.
 
 Thus, each term in the zeta function can be seen as part of an **infinite series of exponentially decaying oscillations**.
