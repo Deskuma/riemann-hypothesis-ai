@@ -41,7 +41,7 @@ $$
 ---
 
 With this, we can now observe the **real** and **imaginary** components separately.
-Both $ a $ and $ b $ are shared parameters in these expressions.
+Both $a$ and $b$ are shared parameters in these expressions.
 
 ---
 
@@ -75,7 +75,7 @@ $$
 \Re\left(\frac{1}{n^{a+bi}}\right) = \frac{\cos(b\ln n)}{n^a}
 $$
 
-- The term $ n^a $ causes the amplitude of each term to decrease rapidly as $ a $ increases.
+- The term $n^a$ causes the amplitude of each term to decrease rapidly as $a$ increases.
 
 ### **Imaginary Part**
 
@@ -83,14 +83,14 @@ $$
 \Im\left(\frac{1}{n^{a+bi}}\right) = -\frac{\sin(b\ln n)}{n^a}
 $$
 
-- Similar to the real part, the imaginary part also exhibits an oscillatory behavior modulated by the decaying factor $ \frac{1}{n^a} $.
+- Similar to the real part, the imaginary part also exhibits an oscillatory behavior modulated by the decaying factor $\frac{1}{n^a}$.
 
 ---
 
 ### **Key Insights from This Decomposition**
 
 - Both the real and imaginary parts contain oscillatory functions ($\cos, \sin$), meaning that each term exhibits periodic behavior determined by $\ln(n)$.
-- The exponential factor $ \frac{1}{n^a} $ controls the decay rate. The larger the real part $ a $, the faster the terms approach zero; the smaller $ a $, the slower the decay.
+- The exponential factor $\frac{1}{n^a}$ controls the decay rate. The larger the real part $a$, the faster the terms approach zero; the smaller $a$, the slower the decay.
 
 Thus, each term in the zeta function can be seen as part of an **infinite series of exponentially decaying oscillations**.
 When the Riemann zeta function is extended into the complex domain, understanding the behavior of these decaying oscillatory components becomes essential in analyzing the location of its nontrivial zeros.
