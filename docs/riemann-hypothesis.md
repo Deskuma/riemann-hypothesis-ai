@@ -5,7 +5,7 @@ The Riemann zeta function $\zeta(s)$ is defined in the complex plane for a compl
 ## **(1) Definition (Zeta Function)**
 
 $$
-\zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} \quad \text{(for } \sigma = \operatorname{Re}(s) > 1\text{)}
+\zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} \quad \text{(for } \sigma = \mathrm{Re}(s) > 1\text{)}
 $$
 
 The above series converges absolutely for $\sigma > 1$ and is holomorphic in this domain. Furthermore, it is known that the zeta function can be analytically continued to the entire complex plane, except for a simple pole at $s = 1$.
@@ -32,13 +32,13 @@ $$
 That is, for any complex number $s$:
 
 $$
-\zeta(s) = 0, \quad 0 < \operatorname{Re}(s) < 1
+\zeta(s) = 0, \quad 0 < \mathrm{Re}(s) < 1
 $$
 
 it must follow that:
 
 $$
-\operatorname{Re}(s) = \frac{1}{2}.
+\mathrm{Re}(s) = \frac{1}{2}.
 $$
 
 ---
@@ -50,13 +50,13 @@ For a more formal mathematical expression:
 - Let $Z$ be the set of all nontrivial zeros of the Riemann zeta function:
 
 $$
-Z := \{ s \in \mathbb{C} \mid \zeta(s) = 0,\quad 0 < \operatorname{Re}(s) < 1 \}.
+Z := \{ s \in \mathbb{C} \mid \zeta(s) = 0,\quad 0 < \mathrm{Re}(s) < 1 \}.
 $$
 
 Then, the Riemann Hypothesis states that:
 
 $$
-\forall s \in Z,\quad \operatorname{Re}(s) = \frac{1}{2}.
+\forall s \in Z,\quad \mathrm{Re}(s) = \frac{1}{2}.
 $$
 
 ---

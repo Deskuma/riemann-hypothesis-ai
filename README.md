@@ -43,7 +43,7 @@ The proof can be found in the list of links here.
 The Riemann Hypothesis states that:
 
 $$
-\forall s \in Z,\quad \operatorname{Re}(s) = \frac{1}{2}.
+\forall s \in Z,\quad \mathrm{Re}(s) = \frac{1}{2}.
 $$
 
 ### Prerequisites
