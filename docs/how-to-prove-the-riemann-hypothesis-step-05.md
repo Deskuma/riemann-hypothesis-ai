@@ -9,7 +9,7 @@ Here is the **graph that demonstrates this phenomenon**:
 
 Overview of the graph:
 
-![Graph](RZF-ZeroPoint-sigma=omega-HD.png)
+![Graph](../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
 
 - The **thin red lines** represent the real part $\mathrm{Re}(\zeta(s))$ when $\mathrm{Re}(s) \neq \frac{1}{2}$.
 - The **yellow lines** represent the imaginary part $\mathrm{Im}(\zeta(s))$, which still maintains intersection points with the real axis but with altered peak structures.
