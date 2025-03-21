@@ -64,7 +64,7 @@ $$
 
 #### 6. [Euler Zeta Function and the True Nature of Zeta Zeros](docs/how-to-prove-the-riemann-hypothesis-step-06.md)
 
-#### 7. [Truthful Bonus](docs/how-to-prove-the-riemann-hypothesis-step-07.md)
+#### 7. [True story ...](docs/how-to-prove-the-riemann-hypothesis-step-07.md)
 
 ## Contributing
 
