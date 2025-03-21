@@ -105,4 +105,4 @@ $$
 ---
 
 [←index](../README.md)
-[Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-05.md) | [Next: ???](how-to-prove-the-riemann-hypothesis-step-07.md)
+[Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-05.md) | [Next: True story ...](how-to-prove-the-riemann-hypothesis-step-07.md)
