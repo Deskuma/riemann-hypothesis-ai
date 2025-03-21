@@ -1,5 +1,11 @@
 # How to Prove the Riemann Hypothesis
 
+Riemann Zeta Function Decomposition
+
+$$
+\zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s}
+$$
+
 ## **Step 1: Expansion of the Zeta Function Terms**
 
 To begin the proof, let us focus only on the terms in the Riemann zeta function:
@@ -8,16 +14,36 @@ $$
 \frac{1}{n^s}, \quad s = a + bi
 $$
 
+Here, $a$ and $b$ are real numbers, and $i$ is the imaginary unit.
+
 Expanding directly, we obtain:
 
 $$
 \frac{1}{n^{(a+bi)}}
 $$
 
-Now, let us further expand this expression:
+This expression can be rewritten using the properties of exponents:
+
+$$
+n^{(a+bi)} = n^a \cdot e^{(bi \cdot \ln(n))}
+$$
+
+or This expression can be rewritten using Euler's formula:
+
+$$
+n^{(a+bi)} = n^a \left( \cos(b \ln n) + i \sin(b \ln n) \right)
+$$
+
+Therefore, the zeta function terms can be expressed as:
 
 $$
 \frac{1}{n^{(a+bi)}} = \frac{1}{n^a \left( \cos(b \ln n) + i \sin(b \ln n) \right)}
+$$
+
+This expansion reveals the real and imaginary components of the zeta function terms.
+
+$$
+\zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^a \left( \cos(b \ln n) + i \sin(b \ln n) \right)}, \quad s = a + bi
 $$
 
 ---
@@ -44,6 +70,8 @@ With this, we can now observe the **real** and **imaginary** components separate
 Both $a$ and $b$ are shared parameters in these expressions.
 
 ---
+
+If we substitute $\mathrm{Re}(s) = 1/2 \rightarrow a = 1/2$ into this equation, there exists a "$b$" where the difference in argument between the even function and the odd function is exactly "$\pi$". This is a non-trivial zero point.
 
 > **Note:**
 > This is the part that explains the principle of the non-trivial zero point that I explained earlier, and is considered completely separately from Re(s)=1/2.
