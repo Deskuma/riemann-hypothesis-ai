@@ -243,4 +243,4 @@ Thus, the next step is to develop a **formal contradiction proof** that demonstr
 ---
 
 [←index](../README.md)
-[Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-03.md) | [Next: ???](how-to-prove-the-riemann-hypothesis-step-05.md)
+[Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-03.md) | [Next: Visual Proof: Phase Synchronization and Zero Conditions](how-to-prove-the-riemann-hypothesis-step-05.md)
