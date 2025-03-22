@@ -1,5 +1,9 @@
 # **Formal Proof: Phase Cancellation and Zero Conditions**
 
+`cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`
+
+---
+
 この条件を成すためには、偶関数と奇関数の位相差、位相角が 1/2
 つまり $2π$ の半分 $π$ となる必要があります。
 
@@ -104,4 +108,6 @@ $$
 ---
 
 [←index](../README.md)
-[Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-03.md) | [Next: ???](how-to-prove-the-riemann-hypothesis-step-05.md)
+[Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-03-ja.md) | [Next: Visual Proof: Phase Synchronization and Zero Conditions](how-to-prove-the-riemann-hypothesis-step-05-ja.md)
+
+`cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

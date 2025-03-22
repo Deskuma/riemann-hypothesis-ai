@@ -1,5 +1,9 @@
 # **Formal Proof: Phase Cancellation and Zero Conditions**
 
+`cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`
+
+---
+
 To satisfy the conditions for the existence of nontrivial zeros, the **phase difference** between the even and odd function components must be precisely $\frac{1}{2}$ in scale—equivalent to half of $2\pi$, which is exactly **$\pi$**.
 
 This means that the critical condition for zero formation is realized only at **$\mathrm{Re}(s) = \frac{1}{2}$**.
@@ -244,3 +248,5 @@ Thus, the next step is to develop a **formal contradiction proof** that demonstr
 
 [←index](../README.md)
 [Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-03.md) | [Next: Visual Proof: Phase Synchronization and Zero Conditions](how-to-prove-the-riemann-hypothesis-step-05.md)
+
+`cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

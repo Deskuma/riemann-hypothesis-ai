@@ -1,12 +1,16 @@
 # How to Prove the Riemann Hypothesis
 
-Riemann Zeta Function Decomposition
+`cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`
+
+---
+
+## Riemann Zeta Function Decomposition
 
 $$
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s}
 $$
 
-## **Step 1: Expansion of the Zeta Function Terms**
+### **1. Expansion of the Zeta Function Terms**
 
 To begin the proof, let us focus only on the terms in the Riemann zeta function:
 
@@ -40,27 +44,37 @@ $$
 \frac{1}{n^{(a+bi)}} = \frac{1}{n^a \left( \cos(b \ln n) + i \sin(b \ln n) \right)}
 $$
 
-This expansion reveals the real and imaginary components of the zeta function terms.
+This formulation reveals the real and imaginary components of each term in the zeta function:
 
 $$
+\Large
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^a \left( \cos(b \ln n) + i \sin(b \ln n) \right)}, \quad s = a + bi
+$$
+
+By replacing $a$ and $b$ with $\sigma$ and $t$, we can interpret this in terms of **focus** and **time**—where $\sigma$ represents the focal depth (what part of the number world you’re looking at), and $t$ captures the temporal phase (when you are observing it).
+
+$$
+\Large
+\zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^\sigma \left( \cos(t \ln n) + i \sin(t \ln n) \right)}, \quad s = \sigma + i t
 $$
 
 ---
 
-## **Step 2: Separation into Real and Imaginary Components**
+### **2. Separation into Real and Imaginary Components**
 
 We now decompose this into its real and imaginary parts:
 
 - **Real part:**
 
 $$
+\Large
 \Re \left( \frac{1}{n^{a+bi}} \right) = \frac{\cos(b \ln n)}{n^a}
 $$
 
 - **Imaginary part:**
 
 $$
+\Large
 \Im \left( \frac{1}{n^{a+bi}} \right) = -\frac{\sin(b \ln n)}{n^a}
 $$
 
@@ -77,6 +91,8 @@ If we substitute $\mathrm{Re}(s) = 1/2 \rightarrow a = 1/2$ into this equation, 
 > This is the part that explains the principle of the non-trivial zero point that I explained earlier, and is considered completely separately from Re(s)=1/2.
 >
 > This is an important point✨️☝️
+
+---
 
 ## **Explanation**
 
@@ -136,4 +152,7 @@ While the behavior of each term is straightforward, **the collective interaction
 
 ---
 
-[←index](../README.md) | [Next: Key Discussion on the Logical Structure of the Proof Approach](how-to-prove-the-riemann-hypothesis-step-02.md)
+[←index](../README.md)
+[prev: README](../README.md) | [Next: Key Discussion on the Logical Structure of the Proof Approach](how-to-prove-the-riemann-hypothesis-step-02.md)
+
+`cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

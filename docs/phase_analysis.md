@@ -1,5 +1,9 @@
 # Phase Analysis of the Riemann Zeta Function
 
+`7dbde33-3490-8009-a813-5fa9383002e6` `2025-03-20 09:21:55`
+
+---
+
 ## Key Observation
 
 At $s = 1/2 + it$, the real and imaginary parts of the Riemann zeta function both vanish. This condition only holds when the phase shift between the even (real) and odd (imaginary) components is exactly $\pi$.
@@ -30,3 +34,7 @@ Thus, the Riemann Hypothesis holds.
 ### Expanding further
 
 ![Graph](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex2.png)
+
+---
+
+`67dbde33-3490-8009-a813-5fa9383002e6` `cdt: 2025-03-20 09:21:55`

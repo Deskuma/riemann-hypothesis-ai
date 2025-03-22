@@ -1,5 +1,9 @@
 # **The Rigorous Mathematical Statement of the Riemann Hypothesis**
 
+`67dbde33-3490-8009-a813-5fa9383002e6` `cdt: 2025-03-20 09:21:55`
+
+---
+
 The Riemann zeta function $\zeta(s)$ is defined in the complex plane for a complex number $s = \sigma + it$ ($\sigma, t \in \mathbb{R}, i = \sqrt{-1}$) as follows:
 
 ## **(1) Definition (Zeta Function)**
@@ -68,3 +72,5 @@ This rigorous statement asserts that all nontrivial zeros of $\zeta(s)$ align pe
 To date, over **tens of trillions** of nontrivial zeros have been computationally verified, and all have been found to lie on the critical line $\sigma = \frac{1}{2}$. However, a formal proof remains elusive, making it one of the most highly sought-after results in modern mathematics.
 
 ---
+
+`67dbde33-3490-8009-a813-5fa9383002e6` `cdt: 2025-03-20 09:21:55`

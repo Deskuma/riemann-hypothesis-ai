@@ -1,5 +1,9 @@
 # リーマン ゼータ関数の位相解析
 
+`67dbde33-3490-8009-a813-5fa9383002e6` `cdt: 2025-03-20 09:21:55`
+
+---
+
 非自明なゼロ点の位置 $s=1/2 + i t$ では実部と虚部の値が共にゼロとなる点。この条件が唯一成立するのは、偶関数と奇関数となる実部と虚部の偏角がちょうど $\pi$ となるときのみ成立する。その条件を成すのが $\mathrm{Re}(s)=1/2$ だけである。少しでもずれると実部の値が変わり共にゼロになることができない。虚部の交点は不動である。が、ピークは実部に同期する。まずこの原理が基本となる。
 
 ## 重要な観察
@@ -31,12 +35,16 @@ $\sigma \neq 1/2$ の場合、位相キャンセルは不完全であり、$\zet
 
 ### 実部と虚部の振動グラフ
 
-![実部と虚部の振動グラフ](RZF-ZeroPoint-sigma=omega-HD.png)
+![実部と虚部の振動グラフ](../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
 
 ### 非自明なゼロ点の拡大
 
-![非自明なゼロ点の拡大](RZF-ZeroPoint-sigma=omega-z2-ex3.png)
+![非自明なゼロ点の拡大](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex3.png)
 
 ### さらに拡大
 
-![非自明なゼロ点の拡大](RZF-ZeroPoint-sigma=omega-z3-ex3.png)
+![非自明なゼロ点の拡大](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex3.png)
+
+---
+
+`67dbde33-3490-8009-a813-5fa9383002e6` `cdt: 2025-03-20 09:21:55`

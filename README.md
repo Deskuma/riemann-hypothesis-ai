@@ -52,6 +52,8 @@ $$
 
 ### How to prove the Riemann Hypothesis
 
+`cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`
+
 #### 1. [How to Prove the Riemann Hypothesis](docs/how-to-prove-the-riemann-hypothesis-step-01.md)
 
 #### 2. [Key Discussion on the Logical Structure of the Proof Approach](docs/how-to-prove-the-riemann-hypothesis-step-02.md)
