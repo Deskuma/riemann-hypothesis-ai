@@ -131,15 +131,15 @@ To ensure mathematical consistency, let us systematically analyze and validate t
 
 - **Euler Product Representation:**
 
-  $$
-  \text{scale}(\theta) = \frac{\sqrt{p}}{|\sqrt{p} e^{i\theta} - 1|}
-  $$
+$$
+\text{scale}(\theta) = \frac{\sqrt{p}}{|\sqrt{p} e^{i\theta} - 1|}
+$$
 
 - **Dirichlet Series Representation (Real Component of Zeta Function):**
 
-  $$
-  \text{scale}(t) = \sum_{n=1}^{\infty} \frac{\cos(t\log n)}{\sqrt{n}}
-  $$
+$$
+\text{scale}(t) = \sum_{n=1}^{\infty} \frac{\cos(t\log n)}{\sqrt{n}}
+$$
 
 This corresponds to the **real part** of the zeta function and represents a harmonic oscillatory sum.
 
@@ -149,15 +149,15 @@ This corresponds to the **real part** of the zeta function and represents a harm
 
 - **Euler Product Representation:**
 
-  $$
-  \text{angle}(\theta) = \arg\left(\frac{e^{i\theta}}{\sqrt{p} e^{i\theta}-1}\right)
-  $$
+$$
+\text{angle}(\theta) = \arg\left(\frac{e^{i\theta}}{\sqrt{p} e^{i\theta}-1}\right)
+$$
 
 - **Dirichlet Series Representation (Imaginary Component of Zeta Function):**
 
-  $$
-  \text{angle}(t) = -\sum_{n=1}^{\infty} \frac{\sin(t\log n)}{\sqrt{n}}
-  $$
+$$
+\text{angle}(t) = -\sum_{n=1}^{\infty} \frac{\sin(t\log n)}{\sqrt{n}}
+$$
 
 This corresponds to the **imaginary part** of the zeta function, forming another oscillatory component.
 
@@ -174,9 +174,9 @@ In the Dirichlet series representation:
 - The nontrivial zeros arise when the real and imaginary components of the infinite sum **simultaneously vanish**.
 - This condition is equivalent to a synchronized cancellation of infinitely many oscillatory terms with incommensurate frequencies, an event that can only occur under very precise structural constraints — namely, at $\Re(s) = \frac{1}{2}$.
 
-  $$
-  \sum_{n=1}^{\infty} \frac{\cos(t\log n)}{\sqrt{n}} = 0, \quad \sum_{n=1}^{\infty} \frac{\sin(t\log n)}{\sqrt{n}} = 0
-  $$
+$$
+\sum_{n=1}^{\infty} \frac{\cos(t\log n)}{\sqrt{n}} = 0, \quad \sum_{n=1}^{\infty} \frac{\sin(t\log n)}{\sqrt{n}} = 0
+$$
 
 This establishes a **direct correspondence** between the Euler product's phase cancellation condition and the Dirichlet series' zero formation mechanism.
 
@@ -188,15 +188,15 @@ In other words, the **fundamental condition for a nontrivial zero in the zeta fu
 
 - **Euler Product Perspective:** The periodicity is given by:
 
-  $$
-  T = \frac{2\pi}{\log p}
-  $$
+$$
+T = \frac{2\pi}{\log p}
+$$
 
 - **Dirichlet Series Perspective:** The oscillatory behavior follows the same periodic pattern, leading to:
 
-  $$
-  t \to t + \frac{2\pi}{\log n}
-  $$
+$$
+t \to t + \frac{2\pi}{\log n}
+$$
 
 Thus, the behavior of the scale and phase components in the zeta function **exhibits a repeating structure**, confirming the deep relationship between prime distributions and the periodic structure of the zeta function.
 
