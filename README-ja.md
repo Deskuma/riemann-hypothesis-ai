@@ -48,25 +48,33 @@ $$
 \forall s \in Z,\quad \mathrm{Re}(s) = \frac{1}{2}.
 $$
 
-### Prerequisites
+### 前提条件
 
-#### [The Rigorous Mathematical Statement of the Riemann Hypothesis](docs/riemann-hypothesis.md)
+#### [リーマン予想の厳密な数学的定式化](docs/riemann-hypothesis-ja.md)
 
-### How to prove the Riemann Hypothesis
+### リーマン予想の証明方法
 
-#### 1. [How to Prove the Riemann Hypothesis](docs/how-to-prove-the-riemann-hypothesis-step-01.md)
+#### 1. [リーマン予想の証明方法](docs/how-to-prove-the-riemann-hypothesis-step-01-ja.md)
 
-#### 2. [Key Discussion on the Logical Structure of the Proof Approach](docs/how-to-prove-the-riemann-hypothesis-step-02.md)
+#### 2. [証明アプローチの論理構造に関する重要な議論](docs/how-to-prove-the-riemann-hypothesis-step-02-ja.md)
 
-#### 3. [Key Focus of the Proof](docs/how-to-prove-the-riemann-hypothesis-step-03.md)
+#### 3. [証明の主たる焦点](docs/how-to-prove-the-riemann-hypothesis-step-03-ja.md)
 
-#### 4. [Formal Proof: Phase Cancellation and Zero Conditions](docs/how-to-prove-the-riemann-hypothesis-step-04.md)
+#### 4. [形式的証明：位相消去と零点条件](docs/how-to-prove-the-riemann-hypothesis-step-04-ja.md)
 
-#### 5. [Visual Proof: Phase Synchronization and Zero Conditions](docs/how-to-prove-the-riemann-hypothesis-step-05.md)
+#### 5. [可視化による証明：位相同期と零点条件](docs/how-to-prove-the-riemann-hypothesis-step-05-ja.md)
 
-#### 6. [Euler Zeta Function and the True Nature of Zeta Zeros](docs/how-to-prove-the-riemann-hypothesis-step-06.md)
+#### 6. [オイラーゼータ関数とゼータ零点の真の本質](docs/how-to-prove-the-riemann-hypothesis-step-06-ja.md)
 
-#### 7. [Truthful Bonus](docs/how-to-prove-the-riemann-hypothesis-step-07.md)
+#### 7. [真実の物語…](docs/how-to-prove-the-riemann-hypothesis-step-07-ja.md)
+
+### Appendix
+
+#### A. [補論 A. 構成的補強証明群](docs/appendix-A-proof-strengthening-ja.md)
+
+#### B. [補論 B. よくある反論とその応答（FAQ形式）](docs/appendix-B-proof-critique-response-ja.md)
+
+#### C. [補論 C. 域別ゼロ排除戦略によるクリティカルラインの構成的決定](docs/appendix-C-zero-region-elimination-ja.md)
 
 ## Contributing
 

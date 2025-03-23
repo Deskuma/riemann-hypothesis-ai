@@ -70,6 +70,22 @@ $$
 
 #### 7. [True story ...](docs/how-to-prove-the-riemann-hypothesis-step-07.md)
 
+### Appendix
+
+#### A. [Proof Strengthening](docs/appendix-A-proof-strengthening.md)
+
+#### B. [Proof Critique Response](docs/appendix-B-proof-critique-response.md)
+
+#### C. [Zero Region Elimination](docs/appendix-C-zero-region-elimination.md)
+
+<!-- #### Additional Resources -->
+
+#### Featured Works
+
+- **Exploration of Zeta Function Properties**
+- **AI-Assisted Prime Number Theorems**
+- **Visualizations of Riemann Hypothesis Implications**
+
 ## Contributing
 
 This project is open to collaboration and contributions from the mathematics and AI communities. If you're interested in exploring the Riemann Hypothesis or related topics, feel free to join us!
