@@ -69,9 +69,9 @@ The function adjusts each prime’s contribution dynamically, meaning that **the
 
 - Each prime has an inherent cycle defined by:
 
-  $$
-  T = \frac{2\pi}{\log p}
-  $$
+$$
+T = \frac{2\pi}{\log p}
+$$
 
 - Since the **infinite set of primes** interact through $\zeta_e(s)$, their collective interference patterns dictate where the function weakens enough to form a zero.
 - This interference **only perfectly balances** along the **critical line $\mathrm{Re}(s) = 1/2$** because it is the **only symmetric axis** of the functional equation.
@@ -89,6 +89,7 @@ This insight answers the long-standing mystery:
 Now that we understand **why zeros exist where they do**, we must prove that **they can exist nowhere else.**
 
 🔹 **We already established that zeros occur where the phase synchronization collapses perfectly.**
+
 🔹 **If we move away from $\mathrm{Re}(s) = 1/2$, this synchronization is lost.**
 
 🚀 **Now comes the final logical step:**
