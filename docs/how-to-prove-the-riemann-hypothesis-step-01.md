@@ -85,7 +85,7 @@ Both $a$ and $b$ are shared parameters in these expressions.
 
 ---
 
-If we substitute $\mathrm{Re}(s) = 1/2 \rightarrow a = 1/2$ into this equation, there exists a "$b$" where the difference in argument between the even function and the odd function is exactly "$\pi$". This is a non-trivial zero point.
+If we substitute $\mathrm{Re}(s) = 1/2 \rightarrow a = 1/2$ into this equation, there exists a $"b"$ where the difference in argument between the even function and the odd function is exactly $"\pi"$. This is a non-trivial zero point.
 
 > **Note:**
 > This is the part that explains the principle of the non-trivial zero point that I explained earlier, and is considered completely separately from Re(s)=1/2.
