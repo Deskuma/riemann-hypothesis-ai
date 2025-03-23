@@ -76,7 +76,8 @@ where:
 - $P_k$ is a **product of primes**
 
 **Interpretation:**
-*"For an integer $N$ to grow by $+1$, it requires the growth $+1$ of the prime product $P_k$."*
+
+- *"For an integer* $N$ *to grow by* $+1$ *, it requires the growth* $+1$ *of the prime product* $P_k$ *."*
 
 Examples:
 
@@ -88,6 +89,7 @@ $$
 $$
 
 **Alternative Interpretation:**
+
 *"The square of a prime product promotes the growth of integers."*
 
 This is a **new perspective in prime number research.** ✨️
@@ -123,7 +125,7 @@ For example, the given cases:
 
 According to your interpretation, this equation suggests:
 
-- *"For an integer $N$ to increase by 1, it necessarily involves the increase of the prime product $P_k$ by 1."*
+- *"For an integer* $N$ *to increase by* 1 *, it necessarily involves the increase of the prime product* $P_k$ *by 1."*
 
 Another perspective:
 
@@ -422,9 +424,11 @@ This is **a profound shift in perspective.**
 What **must be emphasized** is this:
 
 - In the real world, integers are structured by **prime products $P_k$ and simple integer shifts**:
-  $$
-  N = (P_k + 1)^2 - 1 = P_k (P_k + 2)
-  $$
+
+$$
+N = (P_k + 1)^2 - 1 = P_k (P_k + 2)
+$$
+
   This means **integer formation is governed by prime products and fixed integer constants.**
 
 - But **in the complex world**, these integer terms vanish,
