@@ -8,6 +8,7 @@
 ## A.1 位相キャンセルの必要条件性（構成的証明）
 
 リーマンゼータ関数：
+
 $$
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \sum_{n=1}^\infty \frac{1}{n^\sigma} e^{-it \log n}
 $$
@@ -15,13 +16,16 @@ $$
 この級数が $\zeta(s) = 0$ となるためには、以下の条件が必要である：
 
 - 実部：
-  $$
-  \sum_{n=1}^{\infty} \frac{\cos(t \log n)}{n^\sigma} = 0
-  $$
+
+$$
+\sum_{n=1}^{\infty} \frac{\cos(t \log n)}{n^\sigma} = 0
+$$
+
 - 虚部：
-  $$
-  \sum_{n=1}^{\infty} \frac{\sin(t \log n)}{n^\sigma} = 0
-  $$
+
+$$
+\sum_{n=1}^{\infty} \frac{\sin(t \log n)}{n^\sigma} = 0
+$$
 
 よって、複素平面上のベクトル和が完全に打ち消し合う構造（＝位相キャンセル）がなければ、ゼロは成立しない。  
 したがって、**位相キャンセルはゼロ条件の必要条件である。**
@@ -31,6 +35,7 @@ $$
 ## A.2 Re(s) ≠ 1/2 では位相キャンセルが不可能（干渉非対称性の証明）
 
 $\zeta(s)$ における各項は以下の極形式で表される：
+
 $$
 \frac{1}{n^\sigma} e^{-i t \log n} = \frac{1}{n^\sigma} (\cos(t \log n) - i \sin(t \log n))
 $$
@@ -50,13 +55,16 @@ $\zeta(s) = 0$ が成り立つための構造条件は、**$\sigma = 1/2$ に限
 リーマンゼータ関数には2つの等価な表現がある：
 
 - Dirichlet級数：
-  $$
-  \zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
-  $$
+
+$$
+\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+$$
+
 - Euler積：
-  $$
-  \zeta(s) = \prod_p \frac{1}{1 - p^{-s}} = \prod_p \sum_{k=0}^{\infty} \frac{1}{p^{ks}}
-  $$
+
+$$
+\zeta(s) = \prod_p \frac{1}{1 - p^{-s}} = \prod_p \sum_{k=0}^{\infty} \frac{1}{p^{ks}}
+$$
 
 素因数分解の一意性により、全項が $n^{-s}$ に対応し、両形式は項ごとに一致する。  
 また $\Re(s) > 1$ では絶対収束するため、**構成的にも完全一致が保証される。**
