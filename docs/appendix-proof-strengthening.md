@@ -8,6 +8,7 @@ Each section focuses on strengthening the logical and structural foundation of t
 ## A.1 Phase Cancellation as a Necessary Condition (Constructive Proof)
 
 The Riemann zeta function is given by:
+
 $$
 \zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s} = \sum_{n=1}^\infty \frac{1}{n^\sigma} e^{-i t \log n}
 $$
@@ -15,13 +16,16 @@ $$
 To satisfy $\zeta(s) = 0$, both the real and imaginary parts must vanish:
 
 - Real part:
-  $$
-  \sum_{n=1}^\infty \frac{\cos(t \log n)}{n^\sigma} = 0
-  $$
+
+$$
+\sum_{n=1}^\infty \frac{\cos(t \log n)}{n^\sigma} = 0
+$$
+
 - Imaginary part:
-  $$
-  \sum_{n=1}^\infty \frac{\sin(t \log n)}{n^\sigma} = 0
-  $$
+
+$$
+\sum_{n=1}^\infty \frac{\sin(t \log n)}{n^\sigma} = 0
+$$
 
 This implies that the **vector sum in the complex plane must exhibit complete phase cancellation**.  
 Hence, phase cancellation is a **necessary condition** for the existence of nontrivial zeros of $\zeta(s)$.
@@ -31,6 +35,7 @@ Hence, phase cancellation is a **necessary condition** for the existence of nont
 ## A.2 Phase Cancellation is Structurally Impossible for Re(s) ≠ 1/2
 
 Each term of $\zeta(s)$ can be written in polar form as:
+
 $$
 \frac{1}{n^\sigma} e^{-i t \log n} = \frac{1}{n^\sigma} (\cos(t \log n) - i \sin(t \log n))
 $$
@@ -50,13 +55,16 @@ Thus, **phase cancellation becomes structurally impossible**, and $\zeta(s) = 0$
 The Riemann zeta function has two formally equivalent representations:
 
 - Dirichlet series:
-  $$
-  \zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
-  $$
+
+$$
+\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+$$
+
 - Euler product:
-  $$
-  \zeta(s) = \prod_p \frac{1}{1 - p^{-s}} = \prod_p \sum_{k=0}^\infty \frac{1}{p^{ks}}
-  $$
+
+$$
+\zeta(s) = \prod_p \frac{1}{1 - p^{-s}} = \prod_p \sum_{k=0}^\infty \frac{1}{p^{ks}}
+$$
 
 By the **Fundamental Theorem of Arithmetic**, each term $n^{-s}$ corresponds uniquely to a product of prime powers.  
 Therefore, both representations are **term-wise equivalent**, and in the region $\Re(s) > 1$, they are **absolutely convergent** and **constructively identical**.
@@ -72,6 +80,7 @@ f(t) = \sum_{n=1}^\infty \frac{1}{n^\sigma} \cos(t \log n)
 $$
 
 Each term has a quasi-period of:
+
 $$
 T_n = \frac{2\pi}{\log n}
 $$
