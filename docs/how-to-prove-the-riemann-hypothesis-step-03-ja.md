@@ -75,7 +75,7 @@ $$
 
 ---
 
-[←index](../README-ja.md)  
+[←index](../README-ja.md)
 [前: ゼータ関数の解析](how-to-prove-the-riemann-hypothesis-step-02-ja.md) | [次: 形式的証明：位相消去と零点条件](how-to-prove-the-riemann-hypothesis-step-04-ja.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

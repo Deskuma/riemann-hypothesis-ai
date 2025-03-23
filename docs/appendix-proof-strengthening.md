@@ -1,6 +1,6 @@
 # Appendix A. Constructive Reinforcements of the Proof
 
-This appendix addresses key concerns raised in the critical analysis of the Riemann Hypothesis proof, providing formal and constructive reinforcements to the original argument.  
+This appendix addresses key concerns raised in the critical analysis of the Riemann Hypothesis proof, providing formal and constructive reinforcements to the original argument.
 Each section focuses on strengthening the logical and structural foundation of the zero condition and analytic representations of the Riemann zeta function.
 
 ---
@@ -27,7 +27,7 @@ $$
 \sum_{n=1}^\infty \frac{\sin(t \log n)}{n^\sigma} = 0
 $$
 
-This implies that the **vector sum in the complex plane must exhibit complete phase cancellation**.  
+This implies that the **vector sum in the complex plane must exhibit complete phase cancellation**.
 Hence, phase cancellation is a **necessary condition** for the existence of nontrivial zeros of $\zeta(s)$.
 
 ---
@@ -45,7 +45,7 @@ When $\sigma \ne 1/2$, the weighted structure $\frac{1}{n^\sigma}$ causes **asym
 - For $\sigma > 1/2$: High-frequency components decay rapidly → low-frequency dominance
 - For $\sigma < 1/2$: High-frequency components are emphasized → phase instability
 
-This imbalance breaks the symmetry required for destructive interference.  
+This imbalance breaks the symmetry required for destructive interference.
 Thus, **phase cancellation becomes structurally impossible**, and $\zeta(s) = 0$ cannot occur away from the critical line.
 
 ---
@@ -66,7 +66,7 @@ $$
 \zeta(s) = \prod_p \frac{1}{1 - p^{-s}} = \prod_p \sum_{k=0}^\infty \frac{1}{p^{ks}}
 $$
 
-By the **Fundamental Theorem of Arithmetic**, each term $n^{-s}$ corresponds uniquely to a product of prime powers.  
+By the **Fundamental Theorem of Arithmetic**, each term $n^{-s}$ corresponds uniquely to a product of prime powers.
 Therefore, both representations are **term-wise equivalent**, and in the region $\Re(s) > 1$, they are **absolutely convergent** and **constructively identical**.
 
 ---
@@ -87,7 +87,7 @@ $$
 
 Only when $\sigma = 1/2$, the weights $\frac{1}{\sqrt{n}}$ yield a **harmonic decay**, allowing non-commensurate oscillations to **align symmetrically in phase space**.
 
-This constructive alignment allows full destructive interference to occur, i.e., **resonance**.  
+This constructive alignment allows full destructive interference to occur, i.e., **resonance**.
 When $\sigma \ne 1/2$, the asymmetry in weights prevents such alignment.
 
 Thus, the condition for zero formation via oscillatory cancellation is **structurally realized only on the critical line**.
@@ -96,7 +96,7 @@ Thus, the condition for zero formation via oscillatory cancellation is **structu
 
 ## A.5 Density and Distribution of Nontrivial Zeros: Insights from Phase Resonance Structure
 
-In the context of the Riemann Hypothesis, which asserts that all nontrivial zeros lie on the critical line $\Re(s) = \frac{1}{2}$,  
+In the context of the Riemann Hypothesis, which asserts that all nontrivial zeros lie on the critical line $\Re(s) = \frac{1}{2}$,
 we explore **why the zeros are densely packed on this line** through the lens of **phase resonance structure**.
 
 ---
@@ -121,14 +121,14 @@ Zero formation corresponds to the condition where the phase components:
 - The frequencies $\log n$ form a **quasi-periodic**, non-commensurate structure
 - At certain $t$, these vectors **align toward the origin**: this alignment marks the location of a zero
 
-The frequency and regularity of such alignments reflect the density formula $N(T)$,  
+The frequency and regularity of such alignments reflect the density formula $N(T)$,
 suggesting that the zero distribution is not only analytically but also **structurally** explained by phase resonance.
 
 ---
 
 ## A.6 Consistency with Numerical Observations: Visualizing the Interference Pattern of Zeros
 
-The structure of zeta zeros has been extensively studied numerically,  
+The structure of zeta zeros has been extensively studied numerically,
 and here we show how the **phase interference model matches these numerical results**.
 
 ---
@@ -151,7 +151,7 @@ $$
 \sum_{n=1}^N \frac{1}{\sqrt{n}} e^{-i t \log n}
 $$
 
-when plotted in the complex plane as $t$ varies,  
+when plotted in the complex plane as $t$ varies,
 forms spiral trajectories that **collapse toward the origin at specific $t$ values**.
 
 These collapse points correspond exactly to zeta zeros, visually confirming the **phase resonance mechanism**.
@@ -160,12 +160,12 @@ These collapse points correspond exactly to zeta zeros, visually confirming the 
 
 ### Conclusion
 
-Numerical plots of $\zeta\left(\frac{1}{2} + i t\right)$ match the theoretically predicted zero conditions.  
+Numerical plots of $\zeta\left(\frac{1}{2} + i t\right)$ match the theoretically predicted zero conditions.
 Thus, the **zero structure is governed by phase resonance**, both in theory and in numerical reality.
 
 ---
 
-## A.7 The Role of $\Gamma(s)$ and Scale Symmetry  
+## A.7 The Role of $\Gamma(s)$ and Scale Symmetry
 
 _As a regulator of global symmetry and analytic continuation in the zeta function_
 
@@ -189,10 +189,10 @@ This function has the following properties:
 
 ### Why is $\Gamma\left( \frac{s}{2} \right)$ necessary?
 
-While $\zeta(s)$ converges in the half-plane $\Re(s) > 1$ and can be analytically continued elsewhere,  
+While $\zeta(s)$ converges in the half-plane $\Re(s) > 1$ and can be analytically continued elsewhere,
 its growth rate varies significantly depending on $\Re(s)$.
 
-The function $\Gamma\left( \frac{s}{2} \right)$ compensates for the **asymmetry in growth rate** across the critical line.  
+The function $\Gamma\left( \frac{s}{2} \right)$ compensates for the **asymmetry in growth rate** across the critical line.
 It acts as a **scale regulator**, balancing decay on one side with exponential growth on the other.
 
 ---
