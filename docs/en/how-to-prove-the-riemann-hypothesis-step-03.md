@@ -74,7 +74,7 @@ The outlined approach provides a structured path toward proving the **Riemann Hy
 To finalize this proof, we need to **mathematically formalize** the phase synchronization argument and establish a contradiction for off-critical-line zeros.
 
 ---
-[←index](../README.md)
+[←index](../../README.md)
 [Prev: Analyzing the Zeta Function](how-to-prove-the-riemann-hypothesis-step-02.md) | [Next: Formal Proof: Phase Cancellation and Zero Conditions](how-to-prove-the-riemann-hypothesis-step-04.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

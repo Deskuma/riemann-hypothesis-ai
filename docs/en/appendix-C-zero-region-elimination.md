@@ -90,6 +90,8 @@ $$
 
 ---
 
+![zero elimination map](../../experiments/zero_elimination_map.png)
+
 ## Summary: A Constructive Trap to Isolate the Critical Line
 
 By systematically eliminating each vertical strip in the complex plane

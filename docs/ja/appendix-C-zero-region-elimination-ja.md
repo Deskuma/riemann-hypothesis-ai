@@ -84,6 +84,8 @@ $$
 
 ---
 
+![zero elimination map](../../experiments/zero_elimination_map.png)
+
 ## 総括：構成的排除によるゼロ存在領域の確定
 
 このように、複素平面を6領域に分割し、それぞれにおいてゼロの構成が不可能であることを示すことにより、

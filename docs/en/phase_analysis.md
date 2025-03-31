@@ -25,15 +25,15 @@ Thus, the Riemann Hypothesis holds.
 
 ### Real and imaginary oscillation graph
 
-![Graph](../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
+![Graph](../../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
 
 ### Expanding the non-trivial zero point
 
-![Graph](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex2.png)
+![Graph](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex2.png)
 
 ### Expanding further
 
-![Graph](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex2.png)
+![Graph](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex2.png)
 
 ---
 

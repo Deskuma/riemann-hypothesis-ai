@@ -109,7 +109,7 @@ $$
 
 ---
 
-[←index](../README.md)
+[←index](../../README.md)
 [Prev: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-05.md) | [Next: True story ...](how-to-prove-the-riemann-hypothesis-step-07.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

@@ -153,7 +153,7 @@ $$
 
 ---
 
-[←index](../README-ja.md)
-[prev: README](../README-ja.md) | [次へ: 証明アプローチの論理構造に関する重要な議論](how-to-prove-the-riemann-hypothesis-step-02-ja.md)
+[←index](../../README-ja.md)
+[prev: README](../../README-ja.md) | [次へ: 証明アプローチの論理構造に関する重要な議論](how-to-prove-the-riemann-hypothesis-step-02-ja.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

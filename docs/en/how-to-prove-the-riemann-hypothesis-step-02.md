@@ -55,7 +55,7 @@ Now that the logical structure is clear, we are in an excellent position to take
 
 ---
 
-[←index](../README.md)
-[Prev: Dividing the Zeta Function](docs/how-to-prove-the-riemann-hypothesis-step-01.md) | [Next: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-03.md)
+[←index](../../README.md)
+[Prev: Dividing the Zeta Function](how-to-prove-the-riemann-hypothesis-step-01.md) | [Next: Key Focus of the Proof](how-to-prove-the-riemann-hypothesis-step-03.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

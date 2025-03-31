@@ -152,7 +152,7 @@ While the behavior of each term is straightforward, **the collective interaction
 
 ---
 
-[←index](../README.md)
-[prev: README](../README.md) | [Next: Key Discussion on the Logical Structure of the Proof Approach](how-to-prove-the-riemann-hypothesis-step-02.md)
+[←index](../../README.md)
+[prev: README](../../README.md) | [Next: Key Discussion on the Logical Structure of the Proof Approach](how-to-prove-the-riemann-hypothesis-step-02.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

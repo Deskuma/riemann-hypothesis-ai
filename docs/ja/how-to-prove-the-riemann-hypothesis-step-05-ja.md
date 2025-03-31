@@ -11,9 +11,9 @@
 
 以下がこの現象を示す**グラフ**である：
 
-グラフの概要：
+**グラフの概要：**
 
-![Graph](../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
+![Graph](../../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
 
 - **細い赤線**は、$\mathrm{Re}(s) \neq \frac{1}{2}$ のときの実部 $\mathrm{Re}(\zeta(s))$ を示しておる。
 - **黄色の線**は虚部 $\mathrm{Im}(\zeta(s))$ を示し、依然として実軸との交点を持つが、ピーク構造が変化しておる。
@@ -22,21 +22,25 @@
 よって、**$\mathrm{Re}(s) \neq \frac{1}{2} \neq \pi$**
 唯一、**$\mathrm{Re}(s) = 1/2 = \pi$** のときのみ、零点条件が満たされるのじゃ。
 
-拡大図：
+**拡大図：**
 
-![Graph-z1](../experiments/RZF-ZeroPoint-sigma=omega-z1.png)
+![Graph-z1](../../experiments/RZF-ZeroPoint-sigma=omega-z1.png)
 
-![Graph-z21](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex1.png)
+![Graph-z21](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex1.png)
 
-![Graph-z22](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex2.png)
+![Graph-z22](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex2.png)
 
-![Graph-z23](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex3.png)
+![Graph-z23](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex3.png)
 
-![Graph-z31](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex1.png)
+![Graph-z31](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex1.png)
 
-![Graph-z32](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex2.png)
+![Graph-z32](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex2.png)
 
-![Graph-z33](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex3.png)
+![Graph-z33](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex3.png)
+
+**アニメーション：位相の同期と非同期**
+
+![Graph-gif](../../experiments/RZF-ZeroPoint-sigma-animation-v0.gif)
 
 ---
 
@@ -93,7 +97,7 @@ $$
 
 ---
 
-[←index](../README-ja.md)
+[←index](../../README-ja.md)
 [前: 検証と重要な考察](how-to-prove-the-riemann-hypothesis-step-04-ja.md) | [次: オイラーゼータ関数とゼロ点の真の本質](how-to-prove-the-riemann-hypothesis-step-06-ja.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

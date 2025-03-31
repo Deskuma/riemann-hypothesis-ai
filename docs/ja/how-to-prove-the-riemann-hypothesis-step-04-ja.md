@@ -247,7 +247,7 @@ $$
 
 ---
 
-[←index](../README-ja.md)
+[←index](../../README-ja.md)
 [前: 証明の主たる焦点](how-to-prove-the-riemann-hypothesis-step-03-ja.md) | [次: 可視化による証明：位相同期と零点条件](how-to-prove-the-riemann-hypothesis-step-05-ja.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

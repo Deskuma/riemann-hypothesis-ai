@@ -55,7 +55,7 @@
 
 ---
 
-[←index](../README-ja.md)
-[前: ゼータ関数の分割](docs/how-to-prove-the-riemann-hypothesis-step-01-ja.md) | [次: 証明の主たる焦点](how-to-prove-the-riemann-hypothesis-step-03-ja.md)
+[←index](../../README-ja.md)
+[前: ゼータ関数の分割](how-to-prove-the-riemann-hypothesis-step-01-ja.md) | [次: 証明の主たる焦点](how-to-prove-the-riemann-hypothesis-step-03-ja.md)
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`

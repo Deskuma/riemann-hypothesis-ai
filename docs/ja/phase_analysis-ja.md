@@ -35,15 +35,15 @@ $\sigma \neq 1/2$ の場合、位相キャンセルは不完全であり、$\zet
 
 ### 実部と虚部の振動グラフ
 
-![実部と虚部の振動グラフ](../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
+![実部と虚部の振動グラフ](../../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
 
 ### 非自明なゼロ点の拡大
 
-![非自明なゼロ点の拡大](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex3.png)
+![非自明なゼロ点の拡大](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex3.png)
 
 ### さらに拡大
 
-![非自明なゼロ点の拡大](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex3.png)
+![非自明なゼロ点の拡大](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex3.png)
 
 ---
 

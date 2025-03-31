@@ -11,9 +11,9 @@ The phase difference is no longer $\pi$.
 
 Here is the **graph that demonstrates this phenomenon**:
 
-Overview of the graph:
+**Overview of the graph:**
 
-![Graph](../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
+![Graph](../../experiments/RZF-ZeroPoint-sigma=omega-HD.png)
 
 - The **thin red lines** represent the real part $\mathrm{Re}(\zeta(s))$ when $\mathrm{Re}(s) \neq \frac{1}{2}$.
 - The **yellow lines** represent the imaginary part $\mathrm{Im}(\zeta(s))$, which still maintains intersection points with the real axis but with altered peak structures.
@@ -22,21 +22,25 @@ Overview of the graph:
 Thus, **$\mathrm{Re}(s) \neq \frac{1}{2} \neq \pi$**
 Only **$\mathrm{Re}(s) = 1/2 = \pi$** satisfies the zero conditions.
 
-Zoomed-in view:
+**Zoomed-in view:**
 
-![Graph-z1](../experiments/RZF-ZeroPoint-sigma=omega-z1.png)
+![Graph-z1](../../experiments/RZF-ZeroPoint-sigma=omega-z1.png)
 
-![Graph-z21](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex1.png)
+![Graph-z21](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex1.png)
 
-![Graph-z22](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex2.png)
+![Graph-z22](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex2.png)
 
-![Graph-z23](../experiments/RZF-ZeroPoint-sigma=omega-z2-ex3.png)
+![Graph-z23](../../experiments/RZF-ZeroPoint-sigma=omega-z2-ex3.png)
 
-![Graph-z31](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex1.png)
+![Graph-z31](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex1.png)
 
-![Graph-z32](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex2.png)
+![Graph-z32](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex2.png)
 
-![Graph-z33](../experiments/RZF-ZeroPoint-sigma=omega-z3-ex3.png)
+![Graph-z33](../../experiments/RZF-ZeroPoint-sigma=omega-z3-ex3.png)
+
+**Animation: Phase Synchronization and Desynchronization**
+
+![Graph-gif](../../experiments/RZF-ZeroPoint-sigma-animation-v0.gif)
 
 ---
 
