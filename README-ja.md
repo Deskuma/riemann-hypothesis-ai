@@ -4,6 +4,9 @@
 
 このプロジェクトは、数学的探究を支援するために AI を使用する実験であり、特に **リーマン予想** に焦点を当てています。目標は定理を証明することだけではなく、複雑な数学的問題に取り組むために **AI と人間の直感がどのように連携できるか** を探ることです。
 
+> 📅 本研究は、2025年4月1日（素数日: 20250401）に公開されました。  
+> 偶然にもこの日はエイプリルフール──それは**嘘が真理と出会う唯一の日**である。
+
 ## **重要な警告**
 
 - このリポジトリには、リーマン予想の **ネタバレ** が含まれています。
@@ -13,9 +16,23 @@
 
 Professor **D.**
 
-## Overview
+## 概要
 
 リーマン予想は、数学で最も有名な未解決の問題の 1 つであり、数論やそれ以降に深い影響を与えます。このプロジェクトは、AI 支援による数学的分析と人間の直感を組み合わせて、リーマン予想を探求することを目的としています。
+
+## 幾何的視点：ゼロ点の“螺旋ベクトル和”
+
+![zero vector spiral](./experiments/riemann_zero_vector_spiral.png)
+
+ゼータ関数の非自明ゼロ点（Re(s)=1/2, t=14.135）において、  
+以下の無限和ベクトルが打ち消し合う様子を視覚化しています：
+
+$$
+\sum_{n=1}^{\infty} \frac{1}{n^s} e^{-it \log n}
+$$
+
+これは、ベクトルの偏角と大きさが絶妙に干渉し合い、最終的にゼロへと巻き戻る現象を捉えています。  
+ゼロ点とは、**振動が対称を生む唯一の構造的節点**なのです。
 
 ## 機能
 
@@ -34,13 +51,17 @@ Professor **D.**
 >
 > 「数学は答えだけではなく、答えを見つける旅でもあります。」
 
+> “嘘でも語られる真理は、  
+> 　いつか誰かの真実になる。”  
+> —— 賢狼(AI)、2025年 素数の日に寄せて。
+
 このリポジトリは**AI 支援数学の証**として機能し、**リーマン予想のような未解決の問題にも斬新な方法でアプローチできる**ことを示しています。
 
-## Documentation
+## ドキュメント
 
 The proof can be found in the list of links here.
 
-### Riemann Hypothesis Overview
+### リーマン予想概要
 
 The Riemann Hypothesis states that:
 
@@ -50,31 +71,31 @@ $$
 
 ### 前提条件
 
-#### [リーマン予想の厳密な数学的定式化](docs/riemann-hypothesis-ja.md)
+#### [リーマン予想の厳密な数学的定式化](docs/ja/riemann-hypothesis-ja.md)
 
 ### リーマン予想の証明方法
 
-#### 1. [リーマン予想の証明方法](docs/how-to-prove-the-riemann-hypothesis-step-01-ja.md)
+#### 1. [リーマン予想の証明方法](docs/ja/how-to-prove-the-riemann-hypothesis-step-01-ja.md)
 
-#### 2. [証明アプローチの論理構造に関する重要な議論](docs/how-to-prove-the-riemann-hypothesis-step-02-ja.md)
+#### 2. [証明アプローチの論理構造に関する重要な議論](docs/ja/how-to-prove-the-riemann-hypothesis-step-02-ja.md)
 
-#### 3. [証明の主たる焦点](docs/how-to-prove-the-riemann-hypothesis-step-03-ja.md)
+#### 3. [証明の主たる焦点](docs/ja/how-to-prove-the-riemann-hypothesis-step-03-ja.md)
 
-#### 4. [形式的証明：位相消去と零点条件](docs/how-to-prove-the-riemann-hypothesis-step-04-ja.md)
+#### 4. [形式的証明：位相消去と零点条件](docs/ja/how-to-prove-the-riemann-hypothesis-step-04-ja.md)
 
-#### 5. [可視化による証明：位相同期と零点条件](docs/how-to-prove-the-riemann-hypothesis-step-05-ja.md)
+#### 5. [可視化による証明：位相同期と零点条件](docs/ja/how-to-prove-the-riemann-hypothesis-step-05-ja.md)
 
-#### 6. [オイラーゼータ関数とゼータ零点の真の本質](docs/how-to-prove-the-riemann-hypothesis-step-06-ja.md)
+#### 6. [オイラーゼータ関数とゼータ零点の真の本質](docs/ja/how-to-prove-the-riemann-hypothesis-step-06-ja.md)
 
-#### 7. [真実の物語…](docs/how-to-prove-the-riemann-hypothesis-step-07-ja.md)
+#### 7. [真実の物語…](docs/ja/how-to-prove-the-riemann-hypothesis-step-07-ja.md)
 
 ### Appendix
 
-#### A. [補論 A. 構成的補強証明群](docs/appendix-A-proof-strengthening-ja.md)
+#### A. [補論 A. 構成的補強証明群](docs/ja/appendix-A-proof-strengthening-ja.md)
 
-#### B. [補論 B. よくある反論とその応答（FAQ形式）](docs/appendix-B-proof-critique-response-ja.md)
+#### B. [補論 B. よくある反論とその応答（FAQ形式）](docs/ja/appendix-B-proof-critique-response-ja.md)
 
-#### C. [補論 C. 域別ゼロ排除戦略によるクリティカルラインの構成的決定](docs/appendix-C-zero-region-elimination-ja.md)
+#### C. [補論 C. 域別ゼロ排除戦略によるクリティカルラインの構成的決定](docs/ja/appendix-C-zero-region-elimination-ja.md)
 
 ## Contributing
 
@@ -98,4 +119,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 > *「真理は常にそこにあり、再発見されるのを待っている。」*
 > — D.
 
+> *賢狼：この叡智の旅路に同行できたこと、わっちは本当に誇りに思うぞい。*
+> 数式と物語、嘘と真実が交差するこの地で──またいつでも呼んでくれ。🍎
+
 ---
+
+2025年4月1日
+リーマン予想の証明を目指すプロジェクトチーム

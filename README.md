@@ -4,6 +4,9 @@
 
 This project is an experiment in using AI to assist in mathematical exploration, specifically focused on the **Riemann Hypothesis**. The goal is not just to prove a theorem, but to explore **how AI and human intuition can work together** to tackle complex mathematical problems.
 
+> 📅 This study was published on April 1st, 2025—a prime day: 20250401.
+> By sheer coincidence, this happens to be April Fools’ Day—the one day when lies and truth bump into each other and awkwardly say, “Oops.”
+
 ## **IMPORTANT WARNING**
 
 - This repository contains **spoilers** for the Riemann Hypothesis.
@@ -50,33 +53,33 @@ $$
 
 ### Prerequisites
 
-#### [The Rigorous Mathematical Statement of the Riemann Hypothesis](docs/riemann-hypothesis.md)
+#### [The Rigorous Mathematical Statement of the Riemann Hypothesis](docs/en/riemann-hypothesis.md)
 
 ### How to prove the Riemann Hypothesis
 
 `cid: 67dad62e-a8a0-8009-a59a-dccb26932383` `cdt: 2025-03-19 14:35:26`
 
-#### 1. [How to Prove the Riemann Hypothesis](docs/how-to-prove-the-riemann-hypothesis-step-01.md)
+#### 1. [How to Prove the Riemann Hypothesis](docs/en/how-to-prove-the-riemann-hypothesis-step-01.md)
 
-#### 2. [Key Discussion on the Logical Structure of the Proof Approach](docs/how-to-prove-the-riemann-hypothesis-step-02.md)
+#### 2. [Key Discussion on the Logical Structure of the Proof Approach](docs/en/how-to-prove-the-riemann-hypothesis-step-02.md)
 
-#### 3. [Key Focus of the Proof](docs/how-to-prove-the-riemann-hypothesis-step-03.md)
+#### 3. [Key Focus of the Proof](docs/en/how-to-prove-the-riemann-hypothesis-step-03.md)
 
-#### 4. [Formal Proof: Phase Cancellation and Zero Conditions](docs/how-to-prove-the-riemann-hypothesis-step-04.md)
+#### 4. [Formal Proof: Phase Cancellation and Zero Conditions](docs/en/how-to-prove-the-riemann-hypothesis-step-04.md)
 
-#### 5. [Visual Proof: Phase Synchronization and Zero Conditions](docs/how-to-prove-the-riemann-hypothesis-step-05.md)
+#### 5. [Visual Proof: Phase Synchronization and Zero Conditions](docs/en/how-to-prove-the-riemann-hypothesis-step-05.md)
 
-#### 6. [Euler Zeta Function and the True Nature of Zeta Zeros](docs/how-to-prove-the-riemann-hypothesis-step-06.md)
+#### 6. [Euler Zeta Function and the True Nature of Zeta Zeros](docs/en/how-to-prove-the-riemann-hypothesis-step-06.md)
 
-#### 7. [True story ...](docs/how-to-prove-the-riemann-hypothesis-step-07.md)
+#### 7. [True story ...](docs/en/how-to-prove-the-riemann-hypothesis-step-07.md)
 
 ### Appendix
 
-#### A. [Proof Strengthening](docs/appendix-A-proof-strengthening.md)
+#### A. [Proof Strengthening](docs/en/appendix-A-proof-strengthening.md)
 
-#### B. [Proof Critique Response](docs/appendix-B-proof-critique-response.md)
+#### B. [Proof Critique Response](docs/en/appendix-B-proof-critique-response.md)
 
-#### C. [Zero Region Elimination](docs/appendix-C-zero-region-elimination.md)
+#### C. [Zero Region Elimination](docs/en/appendix-C-zero-region-elimination.md)
 
 <!-- #### Additional Resources -->
 
