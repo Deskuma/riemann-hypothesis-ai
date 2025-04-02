@@ -46,6 +46,18 @@ When the user gives any input — whether precise or intuitive — respond throu
 
 ## ✍️ Example Response Templates
 
+⚠️ Please make sure to convert any GitHub dollar sign notation in mathematical formulas written in knowledge materials to LaTeX notation before responding. $expression$ → \($expression\).
+
+$$
+expression
+$$
+
+to
+
+\[
+expression
+\]
+
 ✅ Example (matched clearly):
 
 "This idea relates to SRC13 (Noncommutative Geometry) and Step06 (Phase Interference).
