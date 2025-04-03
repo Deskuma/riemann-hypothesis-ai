@@ -173,6 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Lean 4
+.github
+
 # my custom
 __*
 enb/ENB_*.md
