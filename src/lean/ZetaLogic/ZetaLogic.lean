@@ -3,3 +3,5 @@
 
 -- ZetaLogic.lean
 import ZetaLogic.Basic
+import ZetaLogic.Phase
+import ZetaLogic.Debug
