@@ -1,0 +1,22 @@
+name = "ZetaLogic"
+version = "0.1.0"
+keywords = ["math"]
+defaultTargets = ["ZetaLogic"]
+
+[leanOptions]
+pp.unicode.fun = true # pretty-prints `fun a ↦ b`
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+
+[[lean_lib]]
+name = "ZetaLogic"
+
+[dependencies]
+mathlib = { git = "https://github.com/leanprover-community/mathlib4", rev = "master" }
+
+[[lean_exe]]
+name = "zetalogic"
+root = "Main"
