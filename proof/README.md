@@ -1,4 +1,4 @@
-# **AI-Assisted Structural Proof Strategy for the Riemann Hypothesis**  
+# **AI-Assisted Structural Proof Strategy for the Riemann Hypothesis**
 
 ## *A collaborative exploration into one of the greatest unsolved problems in mathematics.*
 
@@ -8,7 +8,7 @@
 
 > **Can a non-mathematician, with the help of AI, approach the truth behind the Riemann Hypothesis?**
 
-This repository documents an experimental and structural approach to the Riemann Hypothesis developed through iterative dialogue between a human and AI.  
+This repository documents an experimental and structural approach to the Riemann Hypothesis developed through iterative dialogue between a human and AI.
 By transforming the Euler product of the zeta function into a model of phase interference, this project offers a constructive explanation for why all non-trivial zeros appear **only on the critical line** $\mathrm{Re}(s) = 1/2$.
 
 ### **Key Concepts:**
