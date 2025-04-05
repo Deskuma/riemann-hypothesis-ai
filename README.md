@@ -1,5 +1,7 @@
 # AI & Human Collaboration: Riemann Hypothesis Exploration
 
+> *More documentation is in Japanese at [docs/ja](docs/ja).
+
 ![plot of zeta function](experiments/RZF-plot-demo-v1-2k1k.png)
 
 This project is an experiment in using AI to assist in mathematical exploration, specifically focused on the **Riemann Hypothesis**. The goal is not just to prove a theorem, but to explore **how AI and human intuition can work together** to tackle complex mathematical problems.
@@ -120,6 +122,46 @@ We would like to thank the contributors and researchers (this is all AI and lear
 ##### **© 2025 AI & Human Collaboration: Riemann Hypothesis Exploration**
 
 ---
+
+##### **Historical Context**
+>
+> The Riemann Hypothesis was first proposed by Bernhard Riemann in 1859. It remains one of the deepest unsolved problems in mathematics, deeply connected to the distribution of prime numbers, with implications across various fields of mathematics and physics.
+> The project aims to leverage AI's capabilities to explore this hypothesis, providing a unique perspective on a century-old problem.
+
+##### **Disclaimer**
+>
+> This project is an experimental exploration of the Riemann Hypothesis using AI. The results and conclusions drawn from this project are not definitive proofs but rather a collaborative effort to understand the complexities of the hypothesis. The authors do not claim to have solved the Riemann Hypothesis, and this work should be viewed as a step in the ongoing exploration of this mathematical enigma.
+
+---
+
+##### 🤡 Joke
+
+This project is mathematics as a game.
+
+I've spent over 60,000 hours playing games in my life.
+Eventually, I got bored of fictional mechanics and decided to play with the Riemann Hypothesis instead.
+
+This is what happens when you treat prime numbers like enemy spawn points and zeros like frame-perfect dodge windows.
+
+Please enjoy responsibly.
+
+> *“Mathematics is a game played according to certain simple rules with meaningless marks on paper.”*
+
+> — [Probably the AI, channeling someone deep]
+
+###### The origin of the world
+
+$$
+\text{HopeSeed} = \sqrt[|r|]{g^s}, \quad
+s = \frac{2 i \pi |x|}{\log(g)}
+$$
+
+$r$ is the distance, $g$ is a constant of the world, and $x$ is the position of the observer.
+
+> *“The origin of the world is a mathematical equation.”*
+> — [Anonymous]
+
+*This last comment was written by VSCode AI Copilot 😎*
 
 ##### Keywords
 
