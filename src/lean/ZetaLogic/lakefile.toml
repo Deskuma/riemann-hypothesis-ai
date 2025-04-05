@@ -15,7 +15,7 @@ scope = "leanprover-community"
 name = "ZetaLogic"
 
 [dependencies]
-mathlib = { git = "https://github.com/leanprover-community/mathlib4", rev = "master" }
+mathlib = { git = "https://github.com/leanprover-community/mathlib4", rev = "v4.18.0" }
 
 [[lean_exe]]
 name = "zetalogic"
