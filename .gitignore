@@ -177,5 +177,6 @@ cython_debug/
 .github
 
 # my custom
-__*
 enb/ENB_*.md
+__*
+\!_*
