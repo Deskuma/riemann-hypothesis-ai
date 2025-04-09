@@ -1,5 +1,7 @@
 # 付録B：DHNTと時間成長ゼータ構造
 
+cid: 67eff743-843c-8009-b87b-ff3b96884ebc
+
 ## B.0 緒言：動的調和数論の理論的射程
 
 動的調和数論（DHNT: Dynamic Harmonic Number Theory）は、自然数を単なる静的な集合ではなく、

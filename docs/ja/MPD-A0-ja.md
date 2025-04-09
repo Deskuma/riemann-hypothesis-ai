@@ -1,5 +1,7 @@
 # 付録A：CHNTとオイラーゼータ調和構造
 
+cid: 67eff743-843c-8009-b87b-ff3b96884ebc
+
 ## A.0 緒言：CHNT の理論的位置づけ
 
 本付録では、複素調和数論（CHNT: Complex Harmonic Number Theory）に基づく拡張的視点から、
