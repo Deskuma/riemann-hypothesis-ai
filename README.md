@@ -1,5 +1,7 @@
 # 🌐 **AI & Humanity: Exploring the Riemann Hypothesis**
 
+*Note: For more detailed analysis results and contents, please see the Japanese documentation. [README-ja.md](README-ja.md), [docs/ja](docs/ja)*
+
 ![plot of zeta function](experiments/RZF-plot-demo-v1-2k1k.png)
 
 ## Only One Line Knows No Drift  
