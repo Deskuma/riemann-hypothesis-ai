@@ -80,6 +80,7 @@ $$
 \left( \zeta(\rho) = 0\ \wedge\ 0 < \mathrm{Re}(\rho) < 1 \right)
 \Rightarrow \mathrm{Re}(\rho) = \frac{1}{2}
 $$
+
 Or, equivalently in set-theoretic form:
 
 $$
@@ -140,7 +141,7 @@ We visualize the infinite vector sum:
 
 $$
 \sum_{n=1}^\infty \frac{1}{n^s} e^{-it \log n}
-\]
+$$
 
 The real and imaginary parts of these rotating vectors interfere in a delicate way —  
 **perfectly canceling out at the zero**, forming a **logarithmic spiral that collapses back to the origin**.
