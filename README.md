@@ -84,9 +84,9 @@ $$
 Or, equivalently in set-theoretic form:
 
 $$
-\left\{ s \in \mathbb{C} \;\middle|\; \zeta(s) = 0,\ s \notin \{-2, -4, -6, \dots\} \right\}
+\{\, s \in \mathbb{C} \mid \zeta(s) = 0,\ s \notin \{-2, -4, -6, \dots\} \,\}
 \subseteq
-\left\{ s \in \mathbb{C} \;\middle|\; \mathrm{Re}(s) = \frac{1}{2} \right\}
+\{\, s \in \mathbb{C} \mid \mathrm{Re}(s) = \frac{1}{2} \,\}
 $$
 
 ---

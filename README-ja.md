@@ -54,7 +54,7 @@ Professor **D.**
 
 ## 研究成果の一部を抜粋して紹介
 
-### OOL-pi-jump-00: ゼロ点位相反転（$±π$ Jump）
+### OOL-pi-jump-00: ゼロ点位相反転（ $±π$ Jump）
 
 <div style="text-align: center;">
 
@@ -171,11 +171,9 @@ $$
 $$
 
 $$
-\left\{
-\, s \in \mathbb{C} \ \middle|\
-\zeta(s) = 0,\ s \notin \{ -2, -4, -6, \ldots \}
-\,\right\}
-\subseteq \left\{\, s \in \mathbb{C} \ \middle|\ \mathrm{Re}(s) = \frac{1}{2} \,\right\}
+\{\, s \in \mathbb{C} \mid \zeta(s) = 0,\ s \notin \{-2, -4, -6, \dots\} \,\}
+\subseteq
+\{\, s \in \mathbb{C} \mid \mathrm{Re}(s) = \frac{1}{2} \,\}
 $$
 
 ### 前提条件
