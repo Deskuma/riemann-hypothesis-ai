@@ -180,8 +180,8 @@ Formal write-ups are available here:
 
 - Overview: [Riemann Hypothesis Summary](docs/en/riemann-hypothesis.md)  
 - Paper Drafts: [Proof Paper](proof/README.md)
-  - [v1.0 Draft](proof/RH-mpd-2025-0408-draft-v1-en.pdf)
-  - [v2.0 Draft](proof/RH-mpd-2025-0421-draft-v2-en.pdf)
+  - [v1.0 Draft](proof/RH_mpd_2025-0408-draft_v1_en.pdf)
+  - v2.0 Draft (in progress)
 
 ---
 

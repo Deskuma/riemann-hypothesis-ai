@@ -1,0 +1,21 @@
+# LaTeX work files
+# Temporary files
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdfsync
+*.synctex
+*.run.xml
+*.bcf
+
+main.pdf
