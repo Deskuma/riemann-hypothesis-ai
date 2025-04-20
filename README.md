@@ -81,14 +81,6 @@ $$
 \Rightarrow \mathrm{Re}(\rho) = \frac{1}{2}
 $$
 
-Or, equivalently in set-theoretic form:
-
-$$
-\{\, s \in \mathbb{C} \mid \zeta(s) = 0,\ s \notin \{-2, -4, -6, \dots\} \,\}
-\subseteq
-\{\, s \in \mathbb{C} \mid \mathrm{Re}(s) = \frac{1}{2} \,\}
-$$
-
 ---
 
 ## 🔍 Selected Highlights from the Research

@@ -170,12 +170,6 @@ $$
 \Rightarrow \mathrm{Re}(\rho)=\frac{1}{2}
 $$
 
-$$
-\{\, s \in \mathbb{C} \mid \zeta(s) = 0,\ s \notin \{-2, -4, -6, \dots\} \,\}
-\subseteq
-\{\, s \in \mathbb{C} \mid \mathrm{Re}(s) = \frac{1}{2} \,\}
-$$
-
 ### 前提条件
 
 #### [リーマン予想の厳密な数学的定式化](docs/ja/riemann-hypothesis-ja.md)
