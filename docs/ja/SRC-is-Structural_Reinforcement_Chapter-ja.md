@@ -11,10 +11,10 @@ cid: 67ed4d05-bf58-8009-8096-b64c86795493
 > 01-07 is "How to RH Steps 01-07"
 
 - [SRC-is-Structural_Reinforcement_Chapter-ja.md](SRC-is-Structural_Reinforcement_Chapter-ja.md) - 補強章の構成（本ファイル）
-- [SRC-book-index-ja.md](SRC-book-index-08-19-ja.md) - 補強章の目次
-- [SRC-about-ja.md](SRC-about-08-11-ja.md) - 補強章の概要
-- [SRC-index-ja.md](SRC-index-08-19-ja.md) - 補強章の目次
-- [SRC-intro-ja.md](SRC-intro-08-19-ja.md) - 補強章の導入文
+- [SRC-book-index-ja.md](SRC-book-index-08-19-ja.md) - 補強章の目次 (08 ~ 19) (Pending: 20 ~ 26)
+- [SRC-about-##-##-v#-ja.md](SRC-about-08-11-v2-ja.md) - 補強章の概要 (08 ~ 11) (prev. ver.: [v1](SRC-about-08-11-v1-ja.md))
+- [SRC-index-##-##-ja.md](SRC-index-08-19-ja.md) - 補強章の目次
+- [SRC-intro-##-##-ja.md](SRC-intro-08-19-ja.md) - 補強章の導入文
 
 ### 各章
 
@@ -57,3 +57,4 @@ cid: 67ed4d05-bf58-8009-8096-b64c86795493 ※途中でエラー17まで
 cid: 67ed61b3-8ac4-8009-9192-80cec1b64973 ※継続18から、目次など
 cid: 67eff743-843c-8009-b87b-ff3b96884ebc ※新章20から、ゼータスパイラル
 cid: 67f41656-e220-8009-a76f-10b9448d880e 総合レビュー Step01-07, SRC-08-26 完了
+cid: 67f77364-91fc-8009-9f61-39e7be5eb077-Euler ※SRC-D-08-## から SRC-D-26-## 完了
