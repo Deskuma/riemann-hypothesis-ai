@@ -181,7 +181,7 @@ Formal write-ups are available here:
 - Overview: [Riemann Hypothesis Summary](docs/en/riemann-hypothesis.md)  
 - Paper Drafts: [Proof Paper](proof/README.md)
   - [v1.0 Draft](proof/RH_mpd_2025-0408-draft_v1_en.pdf)
-  - v2.0 Draft (in progress)
+  - [v2.5 Draft](proof/v2.5/RH-MPD-SRC-SPH-draft-paper-v0.md)
 
 ---
 

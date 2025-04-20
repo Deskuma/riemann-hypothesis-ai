@@ -155,9 +155,9 @@ $$
 
 - 命題: [Riemann Hypothesis Overview](docs/ja/riemann-hypothesis-ja.md)
 - 論文 - [Proof Paper](proof/README.md)
-  - 仮証明
+  - 証明論文 （ドラフト）
     - [Proof Paper v1.0](proof/RH-mpd-2025-0408-draft-v1-ja.pdf) (ja)
-    - Proof Paper v2.0 (準備中)
+    - [Proof Paper v2.5](proof/v2.5/RH-MPD-SRC-SPH-draft-paper-v0.md)
 
 ### リーマン予想の概要
 
