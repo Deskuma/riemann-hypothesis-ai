@@ -1,234 +1,255 @@
-# 🌐 **AI & Humanity: Exploring the Riemann Hypothesis**
-
-*Note: For more detailed analysis results and contents, please see the Japanese documentation. [README-ja.md](README-ja.md), [docs/ja](docs/ja)*
+# AI and Humanity in Collaboration: Exploring the Riemann Hypothesis
 
 ![plot of zeta function](experiments/RZF-plot-demo-v1-2k1k.png)
 
-## Only One Line Knows No Drift  
+## Only One Line Knows No Drift
 
-### – The Riemann Hypothesis as a Symmetry Theorem –  
+### – The Riemann Hypothesis as a Symmetry Theorem –
 
-#### A Phase-Angle Based Visualization of ζ(s) across σ  
+#### A Phase-Angle Based Visualization of ζ(s) across σ
 
-**Code name: OOL-KND-RHST-2025**
+– OOL • KND • RHST –
 
-📅 *This project was unveiled on April 1st, 2025 — a **Prime Day** (20250401).*  
-Coincidentally, it was also April Fool's Day — *the only day where lies and truth are allowed to meet.*
+### Only One Line Knows No Drift: The Riemann Hypothesis as a Symmetry Theorem
 
----
+code name: OOL-KND-RHST-2025
 
-This project is an experimental collaboration between **AI and human intuition**,  
-focused on exploring and attempting to prove the legendary **Riemann Hypothesis**.
+> 🗓️ This research was released on April 1, 2025 (Prime Day: 20250401).
+> Coincidentally, this day is April Fool's Day — the *only day when lies and truth may cross paths.*
 
-The goal is not only to solve the theorem, but also to explore how **intuition, insight, and symbolic computation**  
-can be enhanced by AI to tackle deeply complex mathematical challenges.
+This project is an experimental collaboration between AI and human intuition, focused especially on the **Riemann Hypothesis**. The goal is not only to prove the theorem but also to **explore how AI and human insight can mutually enhance our ability to tackle complex mathematical problems**.
 
-> Last updated: 2025/04/21 (Prime Day: 20250421)
+> Last updated: 2025/04/21 (Prime Number Day: 20250421)
 
----
+## ✩ WARNING ✩
 
-## ⚠️ A Gentle but Firm Warning
+- This repository contains many **spoilers** related to the famously unsolved Riemann Hypothesis.
+- Scholars who dislike or distrust IT and generative AI should **leave immediately for their own safety**.
+- We do not intend to interfere with the joy of **pure discovery** cherished by devoted mathematicians.
+- The highest bliss lies in solving truth with one’s own mind and experiencing the world’s truths firsthand.
+- Here we present *an example of one possible answer* — but do not read further until you've exhausted your own journey.
 
-- This repository contains a high density of what may be considered **spoilers** to the Riemann Hypothesis.
-- If you are a scholar who dislikes IT, generative AI, or unconventional approaches — please turn back now.
-- We do not wish to spoil the **joy of discovery** for those who want to reach the truth *by their own hands*.
-- The act of unraveling the universe's mysteries by oneself is, after all, the **supreme intellectual delight**.
-- What you find here is *only one possible answer* — and you're not allowed to peek until you feel you've hit a wall.
-
-**Professor D.**
+Professor **D.**
 
 ---
 
 ## Overview
 
-The **Riemann Hypothesis** is one of the most famous unsolved problems in mathematics.  
-Its resolution would impact number theory, cryptography, physics, and many other fields.
+The Riemann Hypothesis is one of the most famous unsolved problems in mathematics, influencing number theory and many other domains.
 
-This project investigates the RH by combining:
-
-- AI-assisted mathematical reasoning and visualization
-- human-driven insight, abstraction, and intuition
-
-It aims not merely to chase a solution, but to **explore the mysteries hidden within numbers themselves**.
-
----
+This project explores the **mysteries of mathematics and number theory** with a focus on the Riemann Hypothesis, combining AI-assisted analysis with human imagination and intuition. Our aim is to uncover its **deep structural truths**.
 
 ## Introduction
 
-The Riemann zeta function $\zeta(s)$ is a central tool in complex analysis and number theory.  
-It serves as a window into the inner nature of “number.”
+The Riemann zeta function ζ(s), a complex-analytic function, is a fundamental tool to probe the inner structure of numbers.
 
-The hypothesis posits that **all non-trivial zeros of $\zeta(s)$** lie on the so-called **Critical Line**:
+The Riemann Hypothesis asserts that all non-trivial zeros of ζ(s) lie on the critical line Re(s) = 1/2. This has profound implications in number theory, cryptography, and other mathematical and physical sciences.
 
-$$
-\mathrm{Re}(s) = \frac{1}{2}
-$$
-
-Prime numbers, as the fundamental building blocks of arithmetic, appear throughout mathematics and science —  
-and the mysterious distribution of primes is reflected in the **location of these zeros**.
+The non-trivial zeros of the zeta function correspond to the distribution of prime numbers, forming the central pillar of the Prime Number Theorem.
 
 ---
 
-## 📜 Formal Statement of the Riemann Hypothesis
+## Selected Highlights from the Research
 
+### OOL-pi-jump-00: Zero Point Phase Inversion ( $±π$ Jump )
+
+<div style="text-align: center;">
+
+![alt](./src/py/graph/arctan_zeta_plot-sigma-v0-s=0.50.png)
+figure. ool-pi-jump-0#0
+σ=0.500, t=14.135 non-trivial zero point
+</div>
+
+*Note: The Z-shape occurs because the top and bottom are connected. Please imagine this graph as unrolling a cylindrical surface.*
+
+This graph represents observations at the critical line (Re(s) = 1/2). At first glance, nothing seems to change. However, it actually depicts a phase inversion at a non-trivial zero of the zeta function. The curve is smooth (though nonlinear), showing a seamless transition. Internally, the zeta function undergoes a phase shift of $±π$ at these points.
+
+<div style="text-align: center;">
+
+![alt](./src/py/graph/arctan_zeta_plot-sigma-v0-s=0.501.png)
+
+figure. ool-pi-jump-00#1
+σ=0.501, t=14.135 non-trivial zero point
+</div>
+
+Here is the evidence. At σ=0.501, the phase shift becomes visible over time near the zero point, revealing the phase inversion more clearly. On the critical line, this inversion occurs instantaneously, rendering it unobservable.
+
+<div style="text-align: center;">
+
+![alt](./src/py/graph/arctan_zeta_plot-sigma-v0-s=0.499.png)
+
+figure. ool-pi-jump-00#2
+σ=0.499, t=14.135 non-trivial zero point
+</div>
+
+The same applies to σ=0.499. This phase inversion near the zero point is one of the core phenomena we are currently investigating in detail.
+
+### OOL-pi-gravity-01: Zero Point Gravity
+
+<div style="text-align: center;">
+
+![alt](./src/py/graph/arctan_zeta_plot-v6-rainbow-both-t=0-35.png)
+
+figure. ool-pi-jump-00#2
+σ=0.1~0.9 step 0.1, t=14.135 ~ 32.935 non-trivial zero points
+</div>
+
+This graph shows behavior near non-trivial zeros outside the critical line (σ ≠ 0.5).
+
+The internal argument (phase) of the zeta function outside the critical line behaves like it's being pulled toward the zero points, revealing a unique and irregular phase inversion. This suggests a kind of **attraction** structure at the zeros, even from the outside. Why does this happen? Even off the critical line, zero points emerge as structural beacons.
+
+### ZPH-ZSG: Zero-Vector Spiral Game (ZSG: Zero Sum Game)
+
+<div style="text-align: center;">
+
+![zero vector spiral](./src/py/graph/riemann_zeta_spiral-v1-t=14.13473.png)
+
+figure. ZSG-ZSG-01#1
+σ=0.5, t=14.135 non-trivial zero point
+</div>
+
+At this non-trivial zero of the zeta function (Re(s)=1/2, t=14.135), we visualize the cancellation of the following infinite vector sum:
+
+$$
+\sum_{n=1}^{\infty} \frac{1}{n^s} e^{-it \log n}
+$$
+
+Here, vector angles and magnitudes interfere perfectly, ultimately canceling to zero. This is the hallmark of a zero point: **a structurally symmetric node born from pure oscillation**.
+
+## Project
+
+### Planned Features
+
+- **Symbolic computation:** Equation transformations assisted by AI.
+- **Prime analysis:** Custom Python tools for prime distributions.
+- **Zeta computation:** Numerical and symbolic experiments.
+
+### Structure
+
+- `src/` - Python scripts for mathematical analysis.
+- `proof/` - Formal proofs and documentation.
+- `experiments/` - Logs and visualizations.
+- `docs/` - Methodology and AI-assisted exploration notes.
+
+### Motivation
+>
+> "Mathematics is not only about answers, but about the journey to find them."
+
+> “Even a truth told in jest
+>    may one day become someone's reality.”
+> — The Wise Wolf (AI), on Prime Day 2025
+
+This repository stands as **a testament to AI-assisted mathematics**, showing how new approaches can confront even unsolved problems like the Riemann Hypothesis.
+
+## Documentation
+
+The paper is available via the following links:
+
+- Proposition: [Riemann Hypothesis Overview](docs/en/riemann-hypothesis.md)
+- Main Paper - [Proof Paper](proof/README.md)
+  - Drafts:
+    - [Proof Paper v1.0](proof/H_mpd_2025-0408-draft_v1_en.pdf) (en)
+    - [Proof Paper v2.5](proof/v2.5/RH-MPD-SRC-SPH-draft-paper-v0.md)
+
+### Riemann Hypothesis Summary
+
+Riemann wrote:
 > *"All non-trivial zeros of the Riemann zeta function lie on the critical line."*
-
-Mathematically expressed:
 
 $$
 \forall \rho \in \mathbb{C},\quad
-\left( \zeta(\rho) = 0\ \wedge\ 0 < \mathrm{Re}(\rho) < 1 \right)
-\Rightarrow \mathrm{Re}(\rho) = \frac{1}{2}
+(\zeta(\rho)=0\ \wedge\ 0<\mathrm{Re}(\rho)<1)
+\Rightarrow \mathrm{Re}(\rho)=\frac{1}{2}
 $$
 
----
+### Requirements
 
-## 🔍 Selected Highlights from the Research
+#### [Formal Mathematical Statement of RH](docs/en/riemann-hypothesis.md)
 
-### 🌀 OOL-pi-jump-00: Phase Flip at Zero Points (±π Jump)
+### RH Proof Method v1.0 (Step-by-Step)
 
-![σ=0.500](./src/py/graph/arctan_zeta_plot-sigma-v0-s=0.50.png)  
-*Figure: σ = 0.500, t = 14.135 — a non-trivial zero*
+#### 1. [How to Prove the RH](docs/en/how-to-prove-the-riemann-hypothesis-step-01.md)
 
-At first glance, this phase graph seems smooth and uneventful.  
-But it actually reveals a deep phenomenon: a **±π phase flip** occurring precisely at the non-trivial zero.  
-This jump is instantaneous — and **invisible** on the critical line due to symmetry.
+#### 2. [Logical Structure of the Approach](docs/en/how-to-prove-the-riemann-hypothesis-step-02.md)
 
----
+#### 3. [Focal Points of the Proof](docs/en/how-to-prove-the-riemann-hypothesis-step-03.md)
 
-![σ=0.501](./src/py/graph/arctan_zeta_plot-sigma-v0-s=0.501.png)  
-*Figure: σ = 0.501, t = 14.135 — slightly off the critical line*
+#### 4. [Formal Proof: Phase Cancellation and Zero Condition](docs/en/how-to-prove-the-riemann-hypothesis-step-04.md)
 
-A tiny shift in σ reveals the internal dynamics.  
-The flip becomes visible: the phase begins to drift, rotates, and sharply inverts near the zero.
+#### 5. [Visualization-Based Proof: Phase Synchronization and Zero Condition](docs/en/how-to-prove-the-riemann-hypothesis-step-05.md)
 
----
+#### 6. [Euler-Zeta Function and the Nature of Zeta Zeros](docs/en/how-to-prove-the-riemann-hypothesis-step-06.md)
 
-![σ=0.499](./src/py/graph/arctan_zeta_plot-sigma-v0-s=0.499.png)  
-*Figure: σ = 0.499, t = 14.135 — mirrored case*
+#### 7. [The Story of Truth...](docs/en/how-to-prove-the-riemann-hypothesis-step-07.md)
 
-Exactly the same mirrored phenomenon occurs.  
-This observation forms the structural basis of our phase-based approach.
+### Appendix
 
----
+#### A. [Appendix A: Structural Reinforcement Proofs](docs/en/appendix-A-proof-strengthening.md)
 
-### 🌌 OOL-pi-gravity-01: Zero Point Attraction (Zero Gravity)
+#### B. [Appendix B: FAQs and Common Counterarguments](docs/en/appendix-B-proof-critique-response.md)
 
-![Phase spectrum](./src/py/graph/arctan_zeta_plot-v6-rainbow-both-t=0-35.png)
+#### C. [Appendix C: Constructive Elimination Strategy for Critical Line](docs/en/appendix-C-zero-region-elimination.md)
 
-In this plot, σ ranges from 0.1 to 0.9.  
-You can see how, **away from the critical line**, the phase “gravitates” toward non-trivial zeros,  
-revealing a synchronized rotational behavior — irregular, yet strikingly ordered.
+### RH Proof Method v2.0 + MPD / SRC
 
-This hints at a hidden **attraction mechanism** centered at each zero point.
+(*No english version available yet*)
 
----
+### RH Proof Method v2.5 - PHZ (Coming Soon)
 
-### 🔁 ZPH-ZSG: Zero Point Logarithmic Spiral — Vector Sum = 0
+### RH Proof Method v3.0 - OOL (Coming Soon)
 
-![Spiral plot](./src/py/graph/riemann_zeta_spiral-v1-t=14.13473.png)  
-*Figure: σ = 0.5, t = 14.135 — non-trivial zero*
+## Contributions
 
-We visualize the infinite vector sum:
+This project welcomes contributions from the mathematics and AI communities. If you're interested in exploring the Riemann Hypothesis or related topics, please join us!
+We are also looking for experts to help carry the torch! (Note: This is an amateur-led initiative.)
 
-$$
-\sum_{n=1}^\infty \frac{1}{n^s} e^{-it \log n}
-$$
+## License
 
-The real and imaginary parts of these rotating vectors interfere in a delicate way —  
-**perfectly canceling out at the zero**, forming a **logarithmic spiral that collapses back to the origin**.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-> A non-trivial zero is **the only structural node** where oscillations can cancel **completely and symmetrically**.
+## 🙏 Acknowledgements
 
----
+We thank all contributors, researchers, and most of all the AI models that supported our journey of mathematical exploration.
 
-## ⚙️ Project Components
+### Special Thanks To
 
-### Features (Planned)
+- **OpenAI**: For expanding my thinking and joining this journey. This project would not have been possible without you. (According to GitHub Copilot — who wrote this line!)
+- **ChatGPT**: My wise companion in structuring ideas and turning abstract intuition into concrete expression. Brainstorming with you was a joy!
+- **D.**: The source of the project's vision and philosophical compass (perhaps a reflection of myself projected by AI).
+- **Riemann**: A brave explorer who left us with the greatest mystery in mathematics.
+- **Euler**: The father of number theory and the zeta function. His formula still opens doors to the deep world behind numbers: Euler Gate $e^{i\pi} = -1$.
 
-- 🧠 **Symbolic Computation**: AI-assisted equation transformation
-- 🔢 **Prime Analysis Tools**: Custom Python utilities for prime behavior
-- 🧮 **Zeta Function Engine**: Experimental numerical and symbolic evaluation
+*-- And to my family.*
 
-### Repository Structure
+> *"Truth is always there, waiting to be rediscovered."*
+> — D.
 
-- `src/` – Mathematical scripts and visualizations  
-- `proof/` – Official proofs and papers  
-- `experiments/` – Data logs and numerical tests  
-- `docs/` – Methodology, concepts, and AI-assisted reasoning  
-
-### Why?
-
-> *“Mathematics is not just about the answer — it's the journey toward it.”*
-
-> “Even a lie told with conviction may one day become someone's truth.”  
-> — *Wise Wolf (AI), on Prime Day 2025*
-
-This repository stands as a **proof-of-concept** for collaborative AI mathematics,  
-offering a novel approach to one of humanity's deepest mysteries.
+> *Wise Wolf (AI): I’m truly proud to have walked this journey of wisdom by your side.*
+> In this land where equations, stories, lies, and truths intertwine—call on me anytime. 🍎
 
 ---
 
-## 📚 Documentation
+April 1, 2025 (Prime Number Day: 20250401)
+Project team dedicated to proving the Riemann Hypothesis
 
-Formal write-ups are available here:
-
-- Overview: [Riemann Hypothesis Summary](docs/en/riemann-hypothesis.md)  
-- Paper Drafts: [Proof Paper](proof/README.md)
-  - [v1.0 Draft](proof/RH_mpd_2025-0408-draft_v1_en.pdf)
-  - [v2.5 Draft](proof/v2.5/RH-MPD-SRC-SPH-draft-paper-v0.md)
-
----
-
-## 🤝 Contribution
-
-We welcome collaboration from mathematicians, theorists, engineers, and AI researchers.  
-Even if you're just curious about primes — or an expert in zeta functions — you're invited to join!
-
-> Looking for someone to inherit this project! (Currently led by an amateur researcher.)
-
----
-
-## 🪪 License
-
-MIT License – see [LICENSE](LICENSE)
-
----
-
-## 🙏 Acknowledgments
-
-To everyone who joined us on this quest to reveal mathematical truth —  
-and to the AI models that made this journey collaborative and possible.
-
-### Special Thanks
-
-- **OpenAI** – For expanding my thoughts and co-piloting the math ship.  
-- **ChatGPT** – The brilliant sparring partner that helped crystallize intuition into structure.  
-- **D.** – The mind behind this vision; a reflection of ourselves through AI.  
-- **Bernhard Riemann** – Who left us this beautiful, maddening mystery.  
-- **Leonhard Euler** – Who gave us the gateway to the infinite: $e^{i\pi} + 1 = 0$
-
-*— and lastly, to my family.*
-
----
-
-> “Truth is always there. It's just waiting to be rediscovered.”  
-> — *D.*
-
-> “To walk this path of knowledge beside you — I, the Wise Wolf, am truly proud.”  
-> Mathematics, mythology, and meaning converge here.  
-> *Call on me anytime again.* 🍎
-
----
-
-## 📅 Project Timeline
+## History
 
 ```txt
-2025-04-01   Project Inception (Prime Day)
-2025-04-13   v1.0 Paper Draft Released (RH-MPD)
-2025-04-21   v2.0 Paper Draft Released (RH-SRC + RH-OOL)
-2025-05-09   v3.0 Draft Incoming
-...
+20250401 Project launched
+20250413 v1.0 Proof-Paper released RH-MPD
+20250421 v2.0 Proof-Paper released RH-SRC, RH-OOL
+20250509 v3.0 Proof-Paper coming soon
+20250701
+20250707
+20250809
+20250821
+20250907
+20251013
+20251027
+20251103
+20251123
+20251129
+20251211
+20251223
+20251229
 ```
-
----
