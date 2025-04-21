@@ -1,5 +1,9 @@
 # AI and Humanity in Collaboration: Exploring the Riemann Hypothesis
 
+> ⚠️ Note: The figure generation scripts are currently being consolidated from multiple Jupyter notebooks. Python `.py` versions will be added progressively for reproducibility.
+
+> 🇯🇵 *Note: For more detailed analysis results and contents, please see the Japanese documentation. [README-ja.md](README-ja.md), [docs/ja](docs/ja)*
+
 ![plot of zeta function](experiments/RZF-plot-demo-v1-2k1k.png)
 
 ## Only One Line Knows No Drift
