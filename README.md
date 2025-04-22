@@ -2,6 +2,13 @@
 
 ai.viXra.org: <https://ai.vixra.org/abs/2504.0081>
 
+- 📊 implemented code for [Figures](https://github.com/Deskuma/riemann-hypothesis-ai/tree/main/proof/figs/v3.4)
+  - 📗 [Run Figures A in Google Colab](https://colab.research.google.com/github/Deskuma/riemann-hypothesis-ai/blob/main/proof/figs/v3.4/ool_arctan_zeta_figs.ipynb)
+  - 📗 [Run Figures B in Google Colab](https://colab.research.google.com/github/Deskuma/riemann-hypothesis-ai/blob/main/proof/figs/v3.4/o3-Type1%2B2.ipynb)
+  - 📗 [Run Figures C in Google Colab](https://colab.research.google.com/github/Deskuma/riemann-hypothesis-ai/blob/main/proof/figs/v3.4/o3-Type3.ipynb)
+  - 📗 [Run Figures D in Google Colab](https://colab.research.google.com/github/Deskuma/riemann-hypothesis-ai/blob/main/proof/figs/v3.4/o3-v3.1-evidence.ipynb)
+
+Figures code implemented
 > ⚠️ Note: The figure generation scripts are currently being consolidated from multiple Jupyter notebooks. Python `.py` versions will be added progressively for reproducibility.
 
 > 🇯🇵 *Note: For more detailed analysis results and contents, please see the Japanese documentation. [README-ja.md](README-ja.md), [docs/ja](docs/ja)*
