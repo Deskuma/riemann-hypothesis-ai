@@ -1,5 +1,7 @@
 # AI and Humanity in Collaboration: Exploring the Riemann Hypothesis
 
+ai.viXra.org: <https://ai.vixra.org/abs/2504.0081>
+
 > ⚠️ Note: The figure generation scripts are currently being consolidated from multiple Jupyter notebooks. Python `.py` versions will be added progressively for reproducibility.
 
 > 🇯🇵 *Note: For more detailed analysis results and contents, please see the Japanese documentation. [README-ja.md](README-ja.md), [docs/ja](docs/ja)*
