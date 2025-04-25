@@ -1,6 +1,6 @@
 # AI and Humanity in Collaboration: Exploring the Riemann Hypothesis
 
-ai.viXra.org: <https://ai.vixra.org/abs/2504.0081>
+ai.viXra.org: <https://ai.vixra.org/abs/2504.0081> and <https://ai.vixra.org/abs/2504.0095>
 
 - 📊 implemented code for [Figures](https://github.com/Deskuma/riemann-hypothesis-ai/tree/main/proof/figs/v3.4)
   - 📗 [Run Figures A in Google Colab](https://colab.research.google.com/github/Deskuma/riemann-hypothesis-ai/blob/main/proof/figs/v3.4/ool_arctan_zeta_figs.ipynb)
